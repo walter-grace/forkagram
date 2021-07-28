@@ -9,7 +9,7 @@ const Title = () => {
       </span>
       <h2>Anyone can make a post, no algorithm</h2>
       <p>No sign up neccesary, just post.</p>
-      <h6>png preferred</h6>
+      <h6>png/jpeg preferred</h6>
 
     </div>
   )

@@ -15,7 +15,7 @@ const UploadForm = () => {
       setError('');
     } else {
       setFile(null);
-      setError('Please select an image/video file (png, jpg, or mp4)');
+      setError('Please select an image/video file (png, jpg, or jpeg)');
     }
   };
 
