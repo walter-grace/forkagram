@@ -7,7 +7,7 @@ const Title = () => {
       <span>
         <h6>a fork of instagram</h6>
       </span>
-      <h2>Anyone can post, no algorithm</h2>
+      <h2>Anyone can make a post, no algorithm</h2>
       <p>No sign up neccesary, just post.</p>
       <h6>png preferred</h6>
 
